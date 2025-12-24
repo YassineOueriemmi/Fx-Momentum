@@ -93,11 +93,3 @@ These files are cleaned and processed directly in the notebook.
 The project provides an empirical comparison between short-term FX momentum and
 PPP-based value strategies. Results highlight the importance of transaction costs,
 market regimes, and cross-sectional effects in currency markets.
-
----
-
-## Requirements
-
-All dependencies are listed in:
-
-- `requirements.txt`
